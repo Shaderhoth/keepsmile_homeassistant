@@ -55,8 +55,8 @@
   "requirements": [
     "bluetooth-data-tools",
     "bleak-retry-connector>=1.17.1",
-    "bleak>=0.17.0,<0.22.0",
-    "cheshire>=0.5.6"
+    "bleak>=0.17.0",
+    "cheshire-no-bleak-limit>=0.5.6"
   ],
   "version": "0.0.2"
 }
